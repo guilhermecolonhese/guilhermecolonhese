@@ -6,9 +6,9 @@
 
 :call_me_hand: Welcome to my GitHub page! My name is Guilherme Camargo :ok_man:
 
-👨‍🎓 Studying Computer Science at [**FIPP - Unoeste**](https://unoeste.br/fipp/)
+👨‍🎓 Graduated Computer Science at [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 
-:man_technologist: Backend and Frontend Developer at [**RubCube**](https://www.rubcube.com/)
+:man_technologist: Backend and Frontend Developer at [**SplitC**](https://www.splitc.com.br/)
 
 
 
@@ -26,11 +26,6 @@
 </div>
   
   ##
-
-### 🌱 About me
-
-- 📚 I'm currently learning about Unit Tests
-- 📫 Contact me: [Email](mailto:guilhermecolonhese@gmail.com)
 
 <br>
 
