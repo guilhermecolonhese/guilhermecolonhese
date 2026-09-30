@@ -48,67 +48,11 @@ I started with C pointers and binary trees at university and ended up shipping T
 
 <br/>
 
-## 🗺️ Journey
-
-| When | What |
-|:--|:--|
-| **2023** | Joined GitHub. Data structures in C++: [huffman-tree](https://github.com/guilhermecolonhese/huffman-tree), [k-d-tree](https://github.com/guilhermecolonhese/k-d-tree). First Arduino project, an [irrigation system](https://github.com/guilhermecolonhese/irrigation-system-arduino). |
-| **2024** | The web-services year. Hexagonal-architecture [menu API](https://github.com/guilhermecolonhese/menu-backend), a Spring Boot [municipal complaints](https://github.com/guilhermecolonhese/municipal-complaints-system) system with a [Vue front-end](https://github.com/guilhermecolonhese/municipal-complaints-interface), and a full elderly-care platform ([API](https://github.com/guilhermecolonhese/fraternity-house-backend) + [React app](https://github.com/guilhermecolonhese/fraternity-house-frontend)). Taught a NestJS + Prisma [course](https://github.com/guilhermecolonhese/my-notes-infoeste) at Infoeste. |
-| **2025** | Went lower and wider. [gRPC auth service](https://github.com/guilhermecolonhese/grpc-auth-service) in Go with JWT, [license-plate recognition](https://github.com/guilhermecolonhese/car-license-plate-recognition) with C# image processing, computer graphics coursework. |
-| **Now** | Engineering at SplitC. Queues, workers and APIs in NestJS and Prisma, with a growing appetite for Go. |
-
-<br/>
-
-## 📦 Things I've built
-
-<details open>
-<summary><b>Web services &amp; APIs</b></summary>
-<br/>
-
-| Repo | Stack | Notes |
-|:--|:--|:--|
-| [grpc-auth-service](https://github.com/guilhermecolonhese/grpc-auth-service) | Go, gRPC, JWT | Registration, login and token validation as a standalone service |
-| [menu-backend](https://github.com/guilhermecolonhese/menu-backend) | Node, TypeScript, Prisma | Hexagonal architecture, ports and adapters done properly |
-| [fraternity-house-backend](https://github.com/guilhermecolonhese/fraternity-house-backend) | Node, Prisma, Docker | MVC REST API for an elderly-care home |
-| [municipal-complaints-system](https://github.com/guilhermecolonhese/municipal-complaints-system) | Java, Spring Boot, JPA | Complaint management for a city hall |
-| [my-notes-infoeste](https://github.com/guilhermecolonhese/my-notes-infoeste) | NestJS, Prisma | Backend built live while teaching |
-
-</details>
-
-<details>
-<summary><b>Systems &amp; image processing</b></summary>
-<br/>
-
-| Repo | Stack | Notes |
-|:--|:--|:--|
-| [car-license-plate-recognition](https://github.com/guilhermecolonhese/car-license-plate-recognition) | C# | Segmentation and recognition of vehicle plates |
-| [ImageManipulationApplication](https://github.com/guilhermecolonhese/ImageManipulationApplication) | C# | Pixel manipulation with direct memory access |
-| [i-node-implementation](https://github.com/guilhermecolonhese/i-node-implementation) | C | A file and directory system built on i-nodes |
-| [computer-graphics](https://github.com/guilhermecolonhese/computer-graphics) | C# | Rasterization and transforms coursework |
-
-</details>
-
-<details>
-<summary><b>Algorithms &amp; data structures</b></summary>
-<br/>
-
-| Repo | Stack | Notes |
-|:--|:--|:--|
-| [huffman-tree](https://github.com/guilhermecolonhese/huffman-tree) | C++ | File zip and unzip with Huffman coding |
-| [b-plus-tree](https://github.com/guilhermecolonhese/b-plus-tree) · [patricia-tree](https://github.com/guilhermecolonhese/patricia-tree) · [k-d-tree](https://github.com/guilhermecolonhese/k-d-tree) | Java, C++ | Tree structures implemented from scratch |
-| [prim-algorithm](https://github.com/guilhermecolonhese/prim-algorithm) | Java | Minimum spanning tree on weighted graphs |
-| [sorting-animations](https://github.com/guilhermecolonhese/sorting-animations) | JavaFX | Shell sort and counting sort, animated |
-
-</details>
-
-<br/>
-
 ## 📈 Activity
 
 <p align="center">
   <img src="https://ghchart.rshah.org/d97706/guilhermecolonhese" alt="Contribution graph" width="100%"/>
 </p>
-
 
 <br/>
 
