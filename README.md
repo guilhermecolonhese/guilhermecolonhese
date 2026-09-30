@@ -25,7 +25,7 @@ I started with C pointers and binary trees at university and ended up shipping T
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermecolonhese&theme=github_dark" alt="Most used languages" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermecolonhese&theme=gruvbox" alt="Most used languages" width="100%"/>
 
 <a href="https://www.linkedin.com/in/camargogui/"><img src="https://img.shields.io/badge/LinkedIn-camargogui-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=guilhermecolonhese&color=f59e0b&style=flat-square&label=visitors" alt="Profile visitors"/>
