@@ -106,12 +106,9 @@ I started with C pointers and binary trees at university and ended up shipping T
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/f59e0b/guilhermecolonhese" alt="Contribution graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/d97706/guilhermecolonhese" alt="Contribution graph" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=guilhermecolonhese&hide_border=true&background=00000000&stroke=30363d&ring=f59e0b&fire=fbbf24&currStreakLabel=f59e0b&currStreakNum=8b949e&sideNums=8b949e&sideLabels=f59e0b&dates=6e7681&hide_total_contributions=false" alt="Streak stats"/>
-</p>
 
 <br/>
 
