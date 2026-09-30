@@ -4,8 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camargogui/)
 
-:call_me_hand: Welcome to my GitHub page! My name is Guilherme Camargo :ok_man:
-
 👨‍🎓 Graduated Computer Science at [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 
 :man_technologist: Backend and Frontend Developer at [**SplitC**](https://www.splitc.com.br/)
