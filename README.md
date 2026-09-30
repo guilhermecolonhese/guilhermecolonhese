@@ -93,30 +93,19 @@ func main() {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="30" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Projects" width="30" /> Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/guilhermecolonhese/grpc-auth-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecolonhese&repo=grpc-auth-service&theme=react&bg_color=0D1117&title_color=0d9488&icon_color=06b6d4&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/guilhermecolonhese/menu-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecolonhese&repo=menu-backend&theme=react&bg_color=0D1117&title_color=0d9488&icon_color=06b6d4&text_color=c9d1d9&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/guilhermecolonhese/fraternity-house-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecolonhese&repo=fraternity-house-backend&theme=react&bg_color=0D1117&title_color=0d9488&icon_color=06b6d4&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/guilhermecolonhese/my-notes-infoeste">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecolonhese&repo=my-notes-infoeste&theme=react&bg_color=0D1117&title_color=0d9488&icon_color=06b6d4&text_color=c9d1d9&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/guilhermecolonhese/car-license-plate-recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecolonhese&repo=car-license-plate-recognition&theme=react&bg_color=0D1117&title_color=0d9488&icon_color=06b6d4&text_color=c9d1d9&hide_border=true" />
-</a>
-<a href="https://github.com/guilhermecolonhese/huffman-tree">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermecolonhese&repo=huffman-tree&theme=react&bg_color=0D1117&title_color=0d9488&icon_color=06b6d4&text_color=c9d1d9&hide_border=true" />
-</a>
+| Project | Stack | What it is |
+|:--|:--:|:--|
+| [**grpc-auth-service**](https://github.com/guilhermecolonhese/grpc-auth-service) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square&logo=google&logoColor=white) | Authentication microservice over gRPC with JWT issuing and validation |
+| [**menu-backend**](https://github.com/guilhermecolonhese/menu-backend) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Hexagonal-architecture API for a digital menu app |
+| [**fraternity-house-backend**](https://github.com/guilhermecolonhese/fraternity-house-backend) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | REST API (MVC) powering an elderly-care home management system |
+| [**my-notes-infoeste**](https://github.com/guilhermecolonhese/my-notes-infoeste) | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Backend built live for a full-stack mobile course I taught |
+| [**municipal-complaints-system**](https://github.com/guilhermecolonhese/municipal-complaints-system) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | Spring Boot + JPA web service for city complaint management |
+| [**car-license-plate-recognition**](https://github.com/guilhermecolonhese/car-license-plate-recognition) | ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) | Image-processing pipeline that segments and reads vehicle plates |
+| [**huffman-tree**](https://github.com/guilhermecolonhese/huffman-tree) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | File compressor/decompressor built on a Huffman tree |
 
 </div>
 
@@ -125,8 +114,13 @@ func main() {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=guilhermecolonhese&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0d9488&icon_color=06b6d4&text_color=c9d1d9&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecolonhese&layout=compact&langs_count=8&bg_color=0D1117&title_color=0d9488&text_color=c9d1d9&hide_border=true&hide=html,css,objective-c,ruby,dockerfile" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermecolonhese&theme=github_dark" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermecolonhese&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermecolonhese&theme=github_dark" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guilhermecolonhese&theme=github_dark&utcOffset=-3" />
 </div>
 
 <div align="center">
@@ -147,7 +141,7 @@ func main() {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Connect" width="30" /> Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="30" /> Let's Connect
 
 <div align="center">
 
