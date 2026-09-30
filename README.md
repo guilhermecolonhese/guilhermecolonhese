@@ -9,17 +9,14 @@
 <h3>Hey, I'm Guilherme 👋</h3>
 
 <p>
-Software engineer who likes building the boring, reliable parts of a product: APIs, data models, queues, and the front-ends that sit on top of them.
-I started with C pointers and binary trees at university and ended up shipping TypeScript services in production. I still enjoy both ends of that spectrum.
+Software engineer at <a href="https://www.splitc.com.br/">SplitC</a>, working across the stack with a backend bias: APIs, data models, queues and workers in TypeScript, plus the React front-ends on top.
 </p>
 
 <ul>
-  <li>💼 &nbsp;Backend &amp; frontend engineer at <a href="https://www.splitc.com.br/">SplitC</a></li>
-  <li>🎓 &nbsp;B.Sc. in Computer Science, <a href="https://unoeste.br/fipp/">FIPP - Unoeste</a></li>
-  <li>📍 &nbsp;Presidente Prudente, SP, Brazil</li>
-  <li>🌱 &nbsp;Currently digging into Go, gRPC and background job pipelines</li>
-  <li>🧑‍🏫 &nbsp;Taught a full-stack mobile course at Infoeste</li>
-  <li>💬 &nbsp;Ask me about NestJS, Prisma, clean architecture, or why your B+ tree is slow</li>
+  <li>🎓 &nbsp;Computer Science, <a href="https://unoeste.br/fipp/">FIPP - Unoeste</a></li>
+  <li>📍 &nbsp;Presidente Prudente, Brazil</li>
+  <li>🌱 &nbsp;Currently into Go, gRPC and background job pipelines</li>
+  <li>💬 &nbsp;Ask me about NestJS, Prisma and clean architecture</li>
 </ul>
 
 </td>
@@ -27,7 +24,7 @@ I started with C pointers and binary trees at university and ended up shipping T
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermecolonhese&theme=gruvbox" alt="Most used languages" width="100%"/>
 
-<a href="https://www.linkedin.com/in/camargogui/"><img src="https://img.shields.io/badge/LinkedIn-camargogui-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/guilherme-colonhese/"><img src="https://img.shields.io/badge/LinkedIn-guilherme--colonhese-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=guilhermecolonhese&color=f59e0b&style=flat-square&label=visitors" alt="Profile visitors"/>
 
 </td>
@@ -61,7 +58,7 @@ I started with C pointers and binary trees at university and ended up shipping T
 I read LinkedIn messages and GitHub issues. If you want to talk about backend design, teaching, or a job, say hi.
 
 <p>
-  <a href="https://www.linkedin.com/in/camargogui/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/guilherme-colonhese/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/guilhermecolonhese"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.splitc.com.br/"><img src="https://img.shields.io/badge/-SplitC-f59e0b?style=flat-square&logo=googlechrome&logoColor=white" alt="SplitC"/></a>
 </p>
