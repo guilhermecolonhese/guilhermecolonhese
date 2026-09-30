@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d9488,100:06b6d4&height=200&section=header&text=Guilherme%20Camargo&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Frontend&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d9488,100:06b6d4&height=200&section=header&text=Guilherme%20Camargo&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20and%20Frontend&descAlignY=60&descSize=18"/>
 
 <div align="center">
 
