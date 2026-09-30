@@ -8,10 +8,6 @@
 
 :man_technologist: Backend and Frontend Developer at [**SplitC**](https://www.splitc.com.br/)
 
-
-
-### ⚡ Interested in Mobile Development
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
