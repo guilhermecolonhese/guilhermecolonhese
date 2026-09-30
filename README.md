@@ -43,8 +43,11 @@ func main() {
 			"infra":    {"Docker", "GitHub Actions", "gRPC", "REST"},
 		},
 
-		Interests: []string{"Clean Architecture", "Distributed Systems", "Image Processing", "Algorithms & Data Structures"},
-		Motto:     "Simple beats clever. Typed beats hopeful.",
+		Interests: []string{
+			"Clean Architecture", "Distributed Systems",
+			"Image Processing", "Algorithms & Data Structures",
+		},
+		Motto: "Simple beats clever. Typed beats hopeful.",
 	}
 
 	guilherme.Build()
