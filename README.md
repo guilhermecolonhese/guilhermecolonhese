@@ -1,165 +1,128 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d9488,100:06b6d4&height=200&section=header&text=Guilherme%20Camargo&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20and%20Frontend&descAlignY=60&descSize=18"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guilhermecolonhese/guilhermecolonhese/main/assets/header.svg" alt="Terminal header: whoami Guilherme Camargo" width="100%"/>
+</p>
 
-<div align="center">
+<table>
+<tr>
+<td width="62%" valign="top">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Designing+clean+and+typed+APIs+%F0%9F%A7%A9;From+C+pointers+to+cloud+deploys+%E2%9A%99%EF%B8%8F;Shipping+products+end-to-end+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h3>Hey, I'm Guilherme 👋</h3>
 
-<br/>
+<p>
+Software engineer who likes building the boring, reliable parts of a product: APIs, data models, queues, and the front-ends that sit on top of them.
+I started with C pointers and binary trees at university and ended up shipping TypeScript services in production. I still enjoy both ends of that spectrum.
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=guilhermecolonhese&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/guilhermecolonhese)
-[![GitHub followers](https://img.shields.io/github/followers/guilhermecolonhese?style=for-the-badge&color=0d9488&labelColor=0D1117&logo=github)](https://github.com/guilhermecolonhese?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camargogui/)
+<ul>
+  <li>💼 &nbsp;Backend &amp; frontend engineer at <a href="https://www.splitc.com.br/">SplitC</a></li>
+  <li>🎓 &nbsp;B.Sc. in Computer Science, <a href="https://unoeste.br/fipp/">FIPP - Unoeste</a></li>
+  <li>📍 &nbsp;Presidente Prudente, SP, Brazil</li>
+  <li>🌱 &nbsp;Currently digging into Go, gRPC and background job pipelines</li>
+  <li>🧑‍🏫 &nbsp;Taught a full-stack mobile course at Infoeste</li>
+  <li>💬 &nbsp;Ask me about NestJS, Prisma, clean architecture, or why your B+ tree is slow</li>
+</ul>
 
-</div>
+</td>
+<td width="38%" align="center" valign="middle">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermecolonhese&theme=github_dark" alt="Most used languages" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" /> About Me
+<a href="https://www.linkedin.com/in/camargogui/"><img src="https://img.shields.io/badge/LinkedIn-camargogui-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=guilhermecolonhese&color=f59e0b&style=flat-square&label=visitors" alt="Profile visitors"/>
 
-```go
-package main
-
-type Developer struct {
-	Name      string
-	Location  string
-	Education string
-	Role      string
-	Stack     map[string][]string
-	Interests []string
-	Motto     string
-}
-
-func main() {
-	guilherme := Developer{
-		Name:      "Guilherme Camargo",
-		Location:  "Presidente Prudente, SP - Brazil",
-		Education: "B.Sc. in Computer Science @ FIPP - Unoeste",
-		Role:      "Software Engineer @ SplitC",
-
-		Stack: map[string][]string{
-			"backend":  {"Node.js", "NestJS", "TypeScript", "Go", "Spring Boot", "Python"},
-			"frontend": {"React", "Vue", "TypeScript"},
-			"data":     {"PostgreSQL", "Prisma", "Redis", "BullMQ"},
-			"infra":    {"Docker", "GitHub Actions", "gRPC", "REST"},
-		},
-
-		Interests: []string{
-			"Clean Architecture", "Distributed Systems",
-			"Image Processing", "Algorithms & Data Structures",
-		},
-		Motto: "Simple beats clever. Typed beats hopeful.",
-	}
-
-	guilherme.Build()
-}
-```
+</td>
+</tr>
+</table>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" /> Tech Stack
+## 🧰 Toolbox
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,go,java,spring,python,react,vue,html,css,postgres,prisma,redis,docker,githubactions,git,cs,c,cpp&perline=11" alt="Tech stack icons"/>
+  </a>
+</p>
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Data & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<p align="center"><sub>Daily drivers in bold: <b>TypeScript</b> · <b>NestJS</b> · <b>Node.js</b> · <b>React</b> · <b>PostgreSQL</b> · <b>Prisma</b> · <b>Docker</b> — the rest I have shipped or studied seriously.</sub></p>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Projects" width="30" /> Featured Projects
+## 🗺️ Journey
 
-<div align="center">
-
-| Project | Stack | What it is |
-|:--|:--:|:--|
-| [**grpc-auth-service**](https://github.com/guilhermecolonhese/grpc-auth-service) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square&logo=google&logoColor=white) | Authentication microservice over gRPC with JWT issuing and validation |
-| [**menu-backend**](https://github.com/guilhermecolonhese/menu-backend) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Hexagonal-architecture API for a digital menu app |
-| [**fraternity-house-backend**](https://github.com/guilhermecolonhese/fraternity-house-backend) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | REST API (MVC) powering an elderly-care home management system |
-| [**my-notes-infoeste**](https://github.com/guilhermecolonhese/my-notes-infoeste) | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | Backend built live for a full-stack mobile course I taught |
-| [**municipal-complaints-system**](https://github.com/guilhermecolonhese/municipal-complaints-system) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | Spring Boot + JPA web service for city complaint management |
-| [**car-license-plate-recognition**](https://github.com/guilhermecolonhese/car-license-plate-recognition) | ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) | Image-processing pipeline that segments and reads vehicle plates |
-| [**huffman-tree**](https://github.com/guilhermecolonhese/huffman-tree) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | File compressor/decompressor built on a Huffman tree |
-
-</div>
+| When | What |
+|:--|:--|
+| **2023** | Joined GitHub. Data structures in C++: [huffman-tree](https://github.com/guilhermecolonhese/huffman-tree), [k-d-tree](https://github.com/guilhermecolonhese/k-d-tree). First Arduino project, an [irrigation system](https://github.com/guilhermecolonhese/irrigation-system-arduino). |
+| **2024** | The web-services year. Hexagonal-architecture [menu API](https://github.com/guilhermecolonhese/menu-backend), a Spring Boot [municipal complaints](https://github.com/guilhermecolonhese/municipal-complaints-system) system with a [Vue front-end](https://github.com/guilhermecolonhese/municipal-complaints-interface), and a full elderly-care platform ([API](https://github.com/guilhermecolonhese/fraternity-house-backend) + [React app](https://github.com/guilhermecolonhese/fraternity-house-frontend)). Taught a NestJS + Prisma [course](https://github.com/guilhermecolonhese/my-notes-infoeste) at Infoeste. |
+| **2025** | Went lower and wider. [gRPC auth service](https://github.com/guilhermecolonhese/grpc-auth-service) in Go with JWT, [license-plate recognition](https://github.com/guilhermecolonhese/car-license-plate-recognition) with C# image processing, computer graphics coursework. |
+| **Now** | Engineering at SplitC. Queues, workers and APIs in NestJS and Prisma, with a growing appetite for Go. |
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
+## 📦 Things I've built
 
-<div align="center">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermecolonhese&theme=github_dark" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermecolonhese&theme=github_dark" />
-</div>
+<details open>
+<summary><b>Web services &amp; APIs</b></summary>
+<br/>
 
-<div align="center">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermecolonhese&theme=github_dark" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guilhermecolonhese&theme=github_dark&utcOffset=-3" />
-</div>
+| Repo | Stack | Notes |
+|:--|:--|:--|
+| [grpc-auth-service](https://github.com/guilhermecolonhese/grpc-auth-service) | Go, gRPC, JWT | Registration, login and token validation as a standalone service |
+| [menu-backend](https://github.com/guilhermecolonhese/menu-backend) | Node, TypeScript, Prisma | Hexagonal architecture, ports and adapters done properly |
+| [fraternity-house-backend](https://github.com/guilhermecolonhese/fraternity-house-backend) | Node, Prisma, Docker | MVC REST API for an elderly-care home |
+| [municipal-complaints-system](https://github.com/guilhermecolonhese/municipal-complaints-system) | Java, Spring Boot, JPA | Complaint management for a city hall |
+| [my-notes-infoeste](https://github.com/guilhermecolonhese/my-notes-infoeste) | NestJS, Prisma | Backend built live while teaching |
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=guilhermecolonhese&hide_border=true&background=0D1117&stroke=0d9488&ring=06b6d4&fire=0d9488&currStreakLabel=0d9488&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=0d9488&dates=8b949e" />
-</div>
+</details>
+
+<details>
+<summary><b>Systems &amp; image processing</b></summary>
+<br/>
+
+| Repo | Stack | Notes |
+|:--|:--|:--|
+| [car-license-plate-recognition](https://github.com/guilhermecolonhese/car-license-plate-recognition) | C# | Segmentation and recognition of vehicle plates |
+| [ImageManipulationApplication](https://github.com/guilhermecolonhese/ImageManipulationApplication) | C# | Pixel manipulation with direct memory access |
+| [i-node-implementation](https://github.com/guilhermecolonhese/i-node-implementation) | C | A file and directory system built on i-nodes |
+| [computer-graphics](https://github.com/guilhermecolonhese/computer-graphics) | C# | Rasterization and transforms coursework |
+
+</details>
+
+<details>
+<summary><b>Algorithms &amp; data structures</b></summary>
+<br/>
+
+| Repo | Stack | Notes |
+|:--|:--|:--|
+| [huffman-tree](https://github.com/guilhermecolonhese/huffman-tree) | C++ | File zip and unzip with Huffman coding |
+| [b-plus-tree](https://github.com/guilhermecolonhese/b-plus-tree) · [patricia-tree](https://github.com/guilhermecolonhese/patricia-tree) · [k-d-tree](https://github.com/guilhermecolonhese/k-d-tree) | Java, C++ | Tree structures implemented from scratch |
+| [prim-algorithm](https://github.com/guilhermecolonhese/prim-algorithm) | Java | Minimum spanning tree on weighted graphs |
+| [sorting-animations](https://github.com/guilhermecolonhese/sorting-animations) | JavaFX | Shell sort and counting sort, animated |
+
+</details>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> Contribution Snake
+## 📈 Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermecolonhese/guilhermecolonhese/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermecolonhese/guilhermecolonhese/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/guilhermecolonhese/guilhermecolonhese/output/github-snake.svg" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/f59e0b/guilhermecolonhese" alt="Contribution graph" width="100%"/>
+</p>
 
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="30" /> Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camargogui/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermecolonhese)
-[![SplitC](https://img.shields.io/badge/SplitC-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.splitc.com.br/)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=guilhermecolonhese&hide_border=true&background=00000000&stroke=30363d&ring=f59e0b&fire=fbbf24&currStreakLabel=f59e0b&currStreakNum=8b949e&sideNums=8b949e&sideLabels=f59e0b&dates=6e7681&hide_total_contributions=false" alt="Streak stats"/>
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson"/>
-</div>
+## 📬 Reach me
 
-<br/>
+I read LinkedIn messages and GitHub issues. If you want to talk about backend design, teaching, or a job, say hi.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:06b6d4,100:0d9488&height=110&section=footer"/>
+<p>
+  <a href="https://www.linkedin.com/in/camargogui/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/guilhermecolonhese"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.splitc.com.br/"><img src="https://img.shields.io/badge/-SplitC-f59e0b?style=flat-square&logo=googlechrome&logoColor=white" alt="SplitC"/></a>
+</p>
+
+<p align="right"><sub><code>➜ ~ exit</code></sub></p>

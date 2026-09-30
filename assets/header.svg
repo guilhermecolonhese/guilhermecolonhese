@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Terminal: whoami Guilherme Camargo, Software Engineer">
+  <style>
+    .mono { font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", Menlo, Consolas, monospace; font-size: 17px; }
+    .title { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; fill: #8b949e; }
+    .prompt { fill: #f59e0b; }
+    .cmd { fill: #e6edf3; }
+    .out { fill: #9da7b3; }
+    .hl { fill: #fbbf24; }
+    .line { opacity: 0; animation: reveal 0.01s linear forwards; }
+    .l1 { animation-delay: 0.3s; } .l2 { animation-delay: 1.0s; } .l3 { animation-delay: 1.9s; }
+    .l4 { animation-delay: 2.6s; } .l5 { animation-delay: 3.3s; } .l6 { animation-delay: 4.1s; }
+    .cursor { fill: #f59e0b; animation: blink 1.1s steps(1) infinite; }
+    @keyframes reveal { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f59e0b" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#f59e0b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="300" rx="14" fill="url(#glow)"/>
+  <rect x="2" y="2" width="896" height="296" rx="13" fill="#0d1117" stroke="#30363d"/>
+
+  <rect x="2" y="2" width="896" height="38" rx="13" fill="#161b22"/>
+  <rect x="2" y="26" width="896" height="14" fill="#161b22"/>
+  <circle cx="24" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="21" r="6" fill="#27c93f"/>
+  <text x="450" y="26" text-anchor="middle" class="title">guilherme@splitc: ~</text>
+
+  <g class="mono">
+    <text x="28" y="80" class="line l1"><tspan class="prompt">➜ ~ </tspan><tspan class="cmd">whoami</tspan></text>
+    <text x="28" y="108" class="line l2"><tspan class="out">Guilherme Camargo </tspan><tspan class="hl">// Software Engineer @ SplitC</tspan></text>
+
+    <text x="28" y="150" class="line l3"><tspan class="prompt">➜ ~ </tspan><tspan class="cmd">cat stack.txt</tspan></text>
+    <text x="28" y="178" class="line l4"><tspan class="out">TypeScript · Node.js · NestJS · Go · Java · Spring · React · PostgreSQL</tspan></text>
+
+    <text x="28" y="220" class="line l5"><tspan class="prompt">➜ ~ </tspan><tspan class="cmd">echo $MOTTO</tspan></text>
+    <text x="28" y="248" class="line l6"><tspan class="out">"Simple beats clever. Typed beats hopeful."</tspan></text>
+
+    <text x="28" y="282" class="line l6"><tspan class="prompt">➜ ~ </tspan><tspan class="cursor">▍</tspan></text>
+  </g>
+</svg>
